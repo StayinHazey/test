@@ -1,4 +1,7 @@
-# test
-test / learning repo
+# Taco Learning
 i did this in the terminal yo.
-Apparently this project is now about tacos, lmao.
+
+This project somehow ended up becoming about tacos. Nice.
+
+### Github Page
+If you want to learn about [tacos](https://stayinhazey.github.io/test/)
