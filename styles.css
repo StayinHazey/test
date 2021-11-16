@@ -1,0 +1,15 @@
+/* styles.css */
+
+.main-text {
+    background-color: #1A1A1D;
+    color: #950740;
+    font-family: "Courier New", monospace;
+}
+
+h1, h2, h3, h4{
+    color: #C3073F;
+}
+
+.special-text {
+    color: #6f2232;
+}
