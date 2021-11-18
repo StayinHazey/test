@@ -13,3 +13,14 @@ h1, h2, h3, h4{
 .special-text {
     color: #6f2232;
 }
+
+.listBox {
+    background-color:#151515;
+    border: 2px solid #4E4E50;
+    padding: 30px;
+    margin: 0px;
+    max-width: 240px;
+    box-sizing: border-box;
+
+
+}
